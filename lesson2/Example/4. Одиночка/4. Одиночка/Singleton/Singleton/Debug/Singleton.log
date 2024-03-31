@@ -1,0 +1,4 @@
+﻿cl : командная строка  warning D9035: использование параметра "Gm" нежелательно, он будет удален в следующих выпусках
+  Singleton.cpp
+Singleton.obj : warning LNK4075: не учитывается "/EDITANDCONTINUE" из-за спецификации "/SAFESEH"
+  Singleton.vcxproj -> C:\Users\filip\Desktop\temp\DesignPatterns\lesson2\Example\4. Одиночка\4. Одиночка\Singleton\Debug\Singleton.exe
