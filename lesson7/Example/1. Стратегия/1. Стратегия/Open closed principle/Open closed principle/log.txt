@@ -1,0 +1,36 @@
+Data successfully added!
+Data successfully added!
+Data successfully added!
+Larry Page	45
+Satya Nadella	51
+Tim Cook	58
+Data successfully saved!
+All data successfully deleted!
+Data loaded successfully!
+Larry Page	45
+Satya Nadella	51
+Tim Cook	58
+Data successfully added!
+Data successfully added!
+Data successfully added!
+Larry Page	45
+Satya Nadella	51
+Tim Cook	58
+Data successfully saved!
+All data successfully deleted!
+Data loaded successfully!
+Larry Page	45
+Satya Nadella	51
+Tim Cook	58
+Data successfully added!
+Data successfully added!
+Data successfully added!
+Larry Page	45
+Satya Nadella	51
+Tim Cook	58
+Data successfully saved!
+All data successfully deleted!
+Data loaded successfully!
+Larry Page	45
+Satya Nadella	51
+Tim Cook	58

@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="BinaryFormatter">
+    <Position X="0.75" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>BinaryFormatter.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ConsoleLog">
+    <Position X="0.5" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAA=</HashCode>
+      <FileName>ConsoleLog.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FileLog">
+    <Position X="2.75" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAA=</HashCode>
+      <FileName>FileLog.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ILog">
+    <Position X="1.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAA=</HashCode>
+      <FileName>ILog.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Human">
+    <Position X="5.25" Y="0.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAABAQAAAAAAEAAAAAAAEAAAAAAAARAQABAA=</HashCode>
+      <FileName>Human.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="IStream">
+    <Position X="1.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>IStream.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TextFormatter">
+    <Position X="2.75" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>TextFormatter.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Сontainer">
+    <Position X="8" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAIAgIAAAAAAAAAAACACBAAAAAAAAAAAIAAAgAAEAAg=</HashCode>
+      <FileName>Сontainer.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
