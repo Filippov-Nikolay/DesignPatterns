@@ -1,5 +1,6 @@
 #include <iostream>
 #include "ConcreteObserver.h"
+
 using namespace std;
 
 	/*

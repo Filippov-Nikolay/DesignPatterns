@@ -1,0 +1,4 @@
+Producer: Intel
+Frequency: 3.5
+Core count: 4
+</body></html>

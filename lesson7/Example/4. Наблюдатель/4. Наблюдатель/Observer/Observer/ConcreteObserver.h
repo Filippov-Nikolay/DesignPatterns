@@ -1,6 +1,7 @@
 #pragma once
 #include "Observer.h"
 #include "Clock.h"
+#include <string>
 
 /*
  ConcreteObserver - конкретный наблюдатель:

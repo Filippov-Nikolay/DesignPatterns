@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Iterator">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAACAAAAAAAQAAAAAAAAAAAABAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Iterator.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Aggregate">
+    <Position X="3.5" Y="1" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Aggregate.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ConcreteAggregate">
+    <Position X="3.5" Y="4" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAACAAgAAAAAgAEAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ConcreteAggregate.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ConcreteIterator">
+    <Position X="0.5" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAACAAAAAABQQAAAAAAAAAgABAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ConcreteIterator.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

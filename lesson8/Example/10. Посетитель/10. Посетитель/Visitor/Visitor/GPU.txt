@@ -1,0 +1,4 @@
+Producer: Asus
+Model: Dual OC V2 LHR
+Connection Interface: PCI-Express x16 4.0
+Memory: 12

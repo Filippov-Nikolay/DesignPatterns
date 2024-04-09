@@ -1,0 +1,4 @@
+Producer: Kingston
+Model: FURY Beast
+Connection Interface: DDR4
+Memory: 16
